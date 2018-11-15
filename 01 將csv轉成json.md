@@ -19,10 +19,31 @@ with open('students.csv', 'r', encoding='utf-8') as file:
         stuNo = row[0]
         stuName = row[1]
         gender = row[2]
+        stuType = row[3]
+        schName = row[4]
+        schType = row[5]
+        city = row[6]
+        district = row[7]
+
+        if district!="":
+            school = {
+                "name": schName,
+                "type": schType,
+                "city": city,
+                "district": district
+            }
+        else:
+            school = {
+                "name": schName,
+                "type": schType,
+                "city": city
+            }            
 
         data[stuNo] = {
-            "stuName": stuName,
-            "gender": gender
+            "name": stuName,
+            "gender": gender,
+            "type": stuType,
+            "school": school
         }
 
 #------------------------------
