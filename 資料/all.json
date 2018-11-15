@@ -1,1201 +1,3097 @@
-
 {
 	"students": {
 		"120001": {
-			"stuName": "蔡家雅",
-			"gender": "女"
+			"name": "蔡家雅",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "二重國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120002": {
-			"stuName": "張怡宇",
-			"gender": "女"
+			"name": "張怡宇",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "二重國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120003": {
-			"stuName": "王庭棋",
-			"gender": "女"
+			"name": "王庭棋",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "二重國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120004": {
-			"stuName": "黃和夫",
-			"gender": "男"
+			"name": "黃和夫",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "竹林高中",
+				"tYpe": "私立",
+				"district": "新北市"
+			}
 		},
 		"120005": {
-			"stuName": "林于文",
-			"gender": "女"
+			"name": "林于文",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "竹林高中",
+				"tYpe": "私立",
+				"district": "新北市"
+			}
 		},
 		"120006": {
-			"stuName": "唐馨馨",
-			"gender": "女"
+			"name": "唐馨馨",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "竹林高中",
+				"tYpe": "私立",
+				"district": "新北市"
+			}
 		},
 		"120007": {
-			"stuName": "張韻庭",
-			"gender": "女"
+			"name": "張韻庭",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "竹林高中",
+				"tYpe": "私立",
+				"district": "新北市"
+			}
 		},
 		"120008": {
-			"stuName": "應立煌",
-			"gender": "男"
+			"name": "應立煌",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "育林國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120009": {
-			"stuName": "賀家政",
-			"gender": "男"
+			"name": "賀家政",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "碇內國中",
+				"tYpe": "市立",
+				"district": "基隆市"
+			}
 		},
 		"120010": {
-			"stuName": "游惠嘉",
-			"gender": "女"
+			"name": "游惠嘉",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "碇內國中",
+				"tYpe": "市立",
+				"district": "基隆市"
+			}
 		},
 		"120011": {
-			"stuName": "林佑倫",
-			"gender": "男"
+			"name": "林佑倫",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "碇內國中",
+				"tYpe": "市立",
+				"district": "基隆市"
+			}
 		},
 		"120012": {
-			"stuName": "孫宥葳",
-			"gender": "女"
+			"name": "孫宥葳",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "碇內國中",
+				"tYpe": "市立",
+				"district": "基隆市"
+			}
 		},
 		"120013": {
-			"stuName": "黃岑秀",
-			"gender": "女"
+			"name": "黃岑秀",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "碇內國中",
+				"tYpe": "市立",
+				"district": "基隆市"
+			}
 		},
 		"120014": {
-			"stuName": "楊雅柔",
-			"gender": "女"
+			"name": "楊雅柔",
+			"gender": "女",
+			"type": "原住民生",
+			"school": {
+				"name": "實踐國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "文山區"
+			}
 		},
 		"120015": {
-			"stuName": "李致君",
-			"gender": "女"
+			"name": "李至君",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120016": {
-			"stuName": "陳怡婷",
-			"gender": "女"
+			"name": "陳怡婷",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120017": {
-			"stuName": "林雅文",
-			"gender": "女"
+			"name": "林雅文",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120018": {
-			"stuName": "謝羿婷",
-			"gender": "女"
+			"name": "謝羿婷",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120019": {
-			"stuName": "郭玟寧",
-			"gender": "女"
+			"name": "郭玟寧",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120020": {
-			"stuName": "方翊郁",
-			"gender": "女"
+			"name": "方翊郁",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120021": {
-			"stuName": "洪亭瑩",
-			"gender": "女"
+			"name": "洪亭瑩",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120022": {
-			"stuName": "莊盈琳",
-			"gender": "女"
+			"name": "莊盈琳",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120023": {
-			"stuName": "陳子傑",
-			"gender": "男"
+			"name": "陳子傑",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120024": {
-			"stuName": "徐冠運",
-			"gender": "男"
+			"name": "徐冠運",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120025": {
-			"stuName": "邱典鳴",
-			"gender": "男"
+			"name": "邱典鳴",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120026": {
-			"stuName": "何冠斌",
-			"gender": "男"
+			"name": "何冠斌",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120027": {
-			"stuName": "劉潔容",
-			"gender": "女"
+			"name": "劉潔容",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120028": {
-			"stuName": "王尉瑩",
-			"gender": "女"
+			"name": "王尉瑩",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120029": {
-			"stuName": "徐盈菁",
-			"gender": "女"
+			"name": "徐盈菁",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120030": {
-			"stuName": "何慈貞",
-			"gender": "女"
+			"name": "何慈貞",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120031": {
-			"stuName": "黃宜勻",
-			"gender": "女"
+			"name": "黃宜勻",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120032": {
-			"stuName": "陳霈蓁",
-			"gender": "女"
+			"name": "陳霈蓁",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120033": {
-			"stuName": "賴孟穎",
-			"gender": "女"
+			"name": "賴孟穎",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120034": {
-			"stuName": "沈家佑",
-			"gender": "女"
+			"name": "沈家佑",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120035": {
-			"stuName": "朱羚儒",
-			"gender": "女"
+			"name": "朱羚儒",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120036": {
-			"stuName": "蕭宛倫",
-			"gender": "女"
+			"name": "蕭宛倫",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120037": {
-			"stuName": "余艾芳",
-			"gender": "女"
+			"name": "余艾芳",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120038": {
-			"stuName": "呂德雯",
-			"gender": "女"
+			"name": "呂德雯",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120039": {
-			"stuName": "林雅霖",
-			"gender": "女"
+			"name": "林雅霖",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120040": {
-			"stuName": "程俐婷",
-			"gender": "女"
+			"name": "程俐婷",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120041": {
-			"stuName": "陳俐平",
-			"gender": "女"
+			"name": "陳俐平",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120042": {
-			"stuName": "林一妤",
-			"gender": "女"
+			"name": "林一妤",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120043": {
-			"stuName": "徐芷妤",
-			"gender": "女"
+			"name": "徐芷妤",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120044": {
-			"stuName": "郭妤文",
-			"gender": "女"
+			"name": "郭妤文",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120045": {
-			"stuName": "陳敏庭",
-			"gender": "女"
+			"name": "陳敏庭",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120046": {
-			"stuName": "羅毓芹",
-			"gender": "女"
+			"name": "羅毓芹",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新莊國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120047": {
-			"stuName": "陳煜文",
-			"gender": "男"
+			"name": "陳煜文",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "三峽國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120048": {
-			"stuName": "黃宜馨",
-			"gender": "女"
+			"name": "黃宜馨",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "三峽國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120049": {
-			"stuName": "蔡彥娟",
-			"gender": "女"
+			"name": "蔡彥娟",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "三峽國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120050": {
-			"stuName": "丁淑儒",
-			"gender": "女"
+			"name": "丁淑儒",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "三峽國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120051": {
-			"stuName": "黃鈺華",
-			"gender": "男"
+			"name": "黃鈺華",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "三峽國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120052": {
-			"stuName": "廖嘉倫",
-			"gender": "男"
+			"name": "廖嘉倫",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "溪崑國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120053": {
-			"stuName": "張欣葳",
-			"gender": "女"
+			"name": "張欣葳",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "錦和高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120054": {
-			"stuName": "周佳好",
-			"gender": "女"
+			"name": "周佳好",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "靜修女中",
+				"tYpe": "私立",
+				"district": "台北市",
+				"zone": "大同區"
+			}
 		},
 		"120055": {
-			"stuName": "張美鈴",
-			"gender": "女"
+			"name": "張美鈴",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "五常國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "中山區"
+			}
 		},
 		"120056": {
-			"stuName": "何柏銘",
-			"gender": "男"
+			"name": "何柏銘",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "樹林高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120057": {
-			"stuName": "陳宜瑩",
-			"gender": "女"
+			"name": "陳宜瑩",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120058": {
-			"stuName": "張欣盈",
-			"gender": "女"
+			"name": "張欣盈",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "溪崑國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120059": {
-			"stuName": "林佳雯",
-			"gender": "女"
+			"name": "林佳雯",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "溪崑國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120060": {
-			"stuName": "葉景文",
-			"gender": "女"
+			"name": "葉景文",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "溪崑國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120061": {
-			"stuName": "李萱戎",
-			"gender": "女"
+			"name": "李萱戎",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "溪崑國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120062": {
-			"stuName": "蔡冠彤",
-			"gender": "女"
+			"name": "蔡冠彤",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "溪崑國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120063": {
-			"stuName": "賴映唐",
-			"gender": "女"
+			"name": "賴映唐",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "溪崑國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120064": {
-			"stuName": "賴欣琪",
-			"gender": "女"
+			"name": "賴欣琪",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "溪崑國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120065": {
-			"stuName": "吳安葦",
-			"gender": "女"
+			"name": "吳安葦",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "溪崑國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120066": {
-			"stuName": "張琇穎",
-			"gender": "女"
+			"name": "張琇穎",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "溪崑國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120067": {
-			"stuName": "王抒蕾",
-			"gender": "女"
+			"name": "王抒蕾",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "溪崑國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120068": {
-			"stuName": "徐雅君",
-			"gender": "女"
+			"name": "徐雅君",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "溪崑國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120069": {
-			"stuName": "王佩萍",
-			"gender": "女"
+			"name": "王佩萍",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "溪崑國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120070": {
-			"stuName": "廖秋萱",
-			"gender": "女"
+			"name": "廖秋萱",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "溪崑國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120071": {
-			"stuName": "湯育穎",
-			"gender": "女"
+			"name": "湯育穎",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "溪崑國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120072": {
-			"stuName": "黃書皓",
-			"gender": "男"
+			"name": "黃書皓",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "崇林國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120073": {
-			"stuName": "林竺婕",
-			"gender": "女"
+			"name": "林竺婕",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "崇林國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120074": {
-			"stuName": "林宇吟",
-			"gender": "女"
+			"name": "林宇吟",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "崇林國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120075": {
-			"stuName": "范閔鴻",
-			"gender": "男"
+			"name": "范閔鴻",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "崇林國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120076": {
-			"stuName": "黃亮萱",
-			"gender": "女"
+			"name": "黃亮萱",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "崇林國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120077": {
-			"stuName": "施品峮",
-			"gender": "女"
+			"name": "施品峮",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "崇林國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120078": {
-			"stuName": "劉文儀",
-			"gender": "女"
+			"name": "劉文儀",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "古坑國中",
+				"tYpe": "縣立",
+				"district": "雲林縣"
+			}
 		},
 		"120079": {
-			"stuName": "謝儀倢",
-			"gender": "女"
+			"name": "謝儀倢",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "永吉國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "信義區"
+			}
 		},
 		"120080": {
-			"stuName": "許業瑋",
-			"gender": "男"
+			"name": "許業瑋",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "永吉國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "信義區"
+			}
 		},
 		"120081": {
-			"stuName": "許書謀",
-			"gender": "男"
+			"name": "許書謀",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "永吉國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "信義區"
+			}
 		},
 		"120082": {
-			"stuName": "陳聿芳",
-			"gender": "女"
+			"name": "陳聿芳",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "光仁高中",
+				"tYpe": "私立",
+				"district": "新北市"
+			}
 		},
 		"120083": {
-			"stuName": "張鳳凱",
-			"gender": "男"
+			"name": "張鳳凱",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "中正國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "中正區"
+			}
 		},
 		"120084": {
-			"stuName": "鄭嘉萱",
-			"gender": "女"
+			"name": "鄭嘉萱",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "芳和國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120085": {
-			"stuName": "李奕晶",
-			"gender": "女"
+			"name": "李奕晶",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "福營國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120086": {
-			"stuName": "宋明嫣",
-			"gender": "女"
+			"name": "宋明嫣",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "石牌國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "北投區"
+			}
 		},
 		"120087": {
-			"stuName": "李威鴻",
-			"gender": "男"
+			"name": "李威鴻",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "石牌國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "北投區"
+			}
 		},
 		"120088": {
-			"stuName": "許書樺",
-			"gender": "女"
+			"name": "許書樺",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "石牌國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "北投區"
+			}
 		},
 		"120089": {
-			"stuName": "許品君",
-			"gender": "女"
+			"name": "許品君",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "石牌國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "北投區"
+			}
 		},
 		"120090": {
-			"stuName": "陳茹月",
-			"gender": "女"
+			"name": "陳茹月",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "石牌國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "北投區"
+			}
 		},
 		"120091": {
-			"stuName": "阮育鋒",
-			"gender": "男"
+			"name": "阮育鋒",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "石牌國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "北投區"
+			}
 		},
 		"120092": {
-			"stuName": "陳亭樺",
-			"gender": "女"
+			"name": "陳亭樺",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "石牌國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "北投區"
+			}
 		},
 		"120093": {
-			"stuName": "王薪雯",
-			"gender": "女"
+			"name": "王薪雯",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "石牌國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "北投區"
+			}
 		},
 		"120094": {
-			"stuName": "曾姵伶",
-			"gender": "女"
+			"name": "曾姵伶",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "石牌國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "北投區"
+			}
 		},
 		"120095": {
-			"stuName": "陳采婕",
-			"gender": "女"
+			"name": "聞采捷",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "石牌國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "北投區"
+			}
 		},
 		"120096": {
-			"stuName": "謝薇穎",
-			"gender": "女"
+			"name": "謝薇穎",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "石牌國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "北投區"
+			}
 		},
 		"120097": {
-			"stuName": "王姿庭",
-			"gender": "女"
+			"name": "王姿庭",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "石牌國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "北投區"
+			}
 		},
 		"120098": {
-			"stuName": "陳宛安",
-			"gender": "女"
+			"name": "陳宛安",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "石牌國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "北投區"
+			}
 		},
 		"120099": {
-			"stuName": "蔡詔瑄",
-			"gender": "女"
+			"name": "蔡詔瑄",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "石牌國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "北投區"
+			}
 		},
 		"120100": {
-			"stuName": "蕭禮可",
-			"gender": "女"
+			"name": "蕭禮可",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "弘道國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "中正區"
+			}
 		},
 		"120101": {
-			"stuName": "劉馨文",
-			"gender": "女"
+			"name": "劉馨文",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "民生國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "松山區"
+			}
 		},
 		"120102": {
-			"stuName": "黃乃柔",
-			"gender": "女"
+			"name": "黃乃柔",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "民生國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "松山區"
+			}
 		},
 		"120103": {
-			"stuName": "柯家翎",
-			"gender": "女"
+			"name": "柯家翎",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "民生國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "松山區"
+			}
 		},
 		"120104": {
-			"stuName": "陳鈺如",
-			"gender": "女"
+			"name": "陳鈺如",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "民生國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "松山區"
+			}
 		},
 		"120105": {
-			"stuName": "許慧妤",
-			"gender": "女"
+			"name": "許慧妤",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "民生國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "松山區"
+			}
 		},
 		"120106": {
-			"stuName": "馬庭博",
-			"gender": "男"
+			"name": "馬庭博",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "民生國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "松山區"
+			}
 		},
 		"120107": {
-			"stuName": "陳孟晴",
-			"gender": "女"
+			"name": "陳孟晴",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "長安國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "中山區"
+			}
 		},
 		"120108": {
-			"stuName": "施筱雅",
-			"gender": "女"
+			"name": "施筱雅",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "長安國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "中山區"
+			}
 		},
 		"120109": {
-			"stuName": "黃星雯",
-			"gender": "女"
+			"name": "黃星雯",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "忠孝國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大同區"
+			}
 		},
 		"120110": {
-			"stuName": "林星邦",
-			"gender": "男"
+			"name": "林星邦",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "忠孝國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大同區"
+			}
 		},
 		"120111": {
-			"stuName": "陳郁瑋",
-			"gender": "女"
+			"name": "陳郁瑋",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "忠孝國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大同區"
+			}
 		},
 		"120112": {
-			"stuName": "王緯廷",
-			"gender": "男"
+			"name": "王緯廷",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "忠孝國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大同區"
+			}
 		},
 		"120113": {
-			"stuName": "曾瑋俐",
-			"gender": "女"
+			"name": "曾瑋俐",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "忠孝國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大同區"
+			}
 		},
 		"120114": {
-			"stuName": "張文綺",
-			"gender": "女"
+			"name": "張文綺",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "螢橋國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "中正區"
+			}
 		},
 		"120115": {
-			"stuName": "鄭紋盈",
-			"gender": "女"
+			"name": "鄭紋盈",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "自強國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120116": {
-			"stuName": "沈筑雯",
-			"gender": "女"
+			"name": "沈筑雯",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "自強國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120117": {
-			"stuName": "高筱潔",
-			"gender": "女"
+			"name": "高筱潔",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "自強國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120118": {
-			"stuName": "蕭文云",
-			"gender": "女"
+			"name": "蕭文云",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "自強國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120119": {
-			"stuName": "許彥明",
-			"gender": "男"
+			"name": "許彥明",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "自強國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120120": {
-			"stuName": "戴乃吟",
-			"gender": "女"
+			"name": "戴乃吟",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "自強國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120121": {
-			"stuName": "章雅儀",
-			"gender": "女"
+			"name": "章雅儀",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "自強國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120122": {
-			"stuName": "王虹絜",
-			"gender": "女"
+			"name": "王虹絜",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "自強國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120123": {
-			"stuName": "吳郁陵",
-			"gender": "女"
+			"name": "吳郁陵",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "觀音國中",
+				"tYpe": "縣立",
+				"district": "桃園縣"
+			}
 		},
 		"120124": {
-			"stuName": "張思婷",
-			"gender": "女"
+			"name": "張思婷",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "居仁國中",
+				"tYpe": "市立",
+				"district": "台中市"
+			}
 		},
 		"120125": {
-			"stuName": "陳姿穎",
-			"gender": "女"
+			"name": "陳姿穎",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "士林國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "士林區"
+			}
 		},
 		"120126": {
-			"stuName": "管穎君",
-			"gender": "女"
+			"name": "管穎君",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "士林國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "士林區"
+			}
 		},
 		"120127": {
-			"stuName": "周姿風",
-			"gender": "女"
+			"name": "周姿風",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "士林國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "士林區"
+			}
 		},
 		"120128": {
-			"stuName": "陳荷涵",
-			"gender": "女"
+			"name": "陳荷涵",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "士林國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "士林區"
+			}
 		},
 		"120129": {
-			"stuName": "趙舒珍",
-			"gender": "女"
+			"name": "趙舒珍",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "士林國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "士林區"
+			}
 		},
 		"120130": {
-			"stuName": "劉向維",
-			"gender": "男"
+			"name": "劉向維",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "士林國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "士林區"
+			}
 		},
 		"120131": {
-			"stuName": "莊元薪",
-			"gender": "女"
+			"name": "莊元薪",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "士林國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "士林區"
+			}
 		},
 		"120132": {
-			"stuName": "鄭雅柔",
-			"gender": "女"
+			"name": "鄭雅柔",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "士林國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "士林區"
+			}
 		},
 		"120133": {
-			"stuName": "徐昱昊",
-			"gender": "男"
+			"name": "徐昱昊",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "誠正國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "南港區"
+			}
 		},
 		"120134": {
-			"stuName": "鄭詩嫻",
-			"gender": "女"
+			"name": "鄭詩嫻",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新民國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "北投區"
+			}
 		},
 		"120135": {
-			"stuName": "王碩臻",
-			"gender": "女"
+			"name": "王碩臻",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新民國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "北投區"
+			}
 		},
 		"120136": {
-			"stuName": "高逸華",
-			"gender": "女"
+			"name": "高逸華",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新民國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "北投區"
+			}
 		},
 		"120137": {
-			"stuName": "阮俊豪",
-			"gender": "男"
+			"name": "阮俊豪",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "興雅國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "信義區"
+			}
 		},
 		"120138": {
-			"stuName": "洪品豪",
-			"gender": "男"
+			"name": "洪品豪",
+			"gender": "男",
+			"type": "原住民生",
+			"school": {
+				"name": "中山國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "松山區"
+			}
 		},
 		"120139": {
-			"stuName": "陳若潔",
-			"gender": "女"
+			"name": "陳若潔",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "中山國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "松山區"
+			}
 		},
 		"120140": {
-			"stuName": "黃子翔",
-			"gender": "男"
+			"name": "黃子翔",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "中山國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "松山區"
+			}
 		},
 		"120141": {
-			"stuName": "王義豪",
-			"gender": "男"
+			"name": "王義豪",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "中山國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "松山區"
+			}
 		},
 		"120142": {
-			"stuName": "唐孟清",
-			"gender": "女"
+			"name": "唐孟清",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "中山國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "松山區"
+			}
 		},
 		"120143": {
-			"stuName": "吳筱柔",
-			"gender": "女"
+			"name": "吳筱柔",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "中山國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "松山區"
+			}
 		},
 		"120144": {
-			"stuName": "蘇采瑄",
-			"gender": "女"
+			"name": "蘇采瑄",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "尖山國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120145": {
-			"stuName": "許于均",
-			"gender": "女"
+			"name": "許于均",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "萬芳高中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "文山區"
+			}
 		},
 		"120146": {
-			"stuName": "林哲駿",
-			"gender": "男"
+			"name": "林哲駿",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120147": {
-			"stuName": "王玉蓁",
-			"gender": "女"
+			"name": "王玉蓁",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120148": {
-			"stuName": "邱佳菁",
-			"gender": "女"
+			"name": "邱佳菁",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120149": {
-			"stuName": "林芷芸",
-			"gender": "女"
+			"name": "林芷芸",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120150": {
-			"stuName": "林佩萱",
-			"gender": "女"
+			"name": "林佩萱",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120151": {
-			"stuName": "劉緯駿",
-			"gender": "男"
+			"name": "劉緯駿",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120152": {
-			"stuName": "蔡懿卉",
-			"gender": "女"
+			"name": "蔡懿卉",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120153": {
-			"stuName": "郭彩玟",
-			"gender": "女"
+			"name": "郭彩玟",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120154": {
-			"stuName": "廖佳正",
-			"gender": "男"
+			"name": "廖佳正",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120155": {
-			"stuName": "王聖均",
-			"gender": "女"
+			"name": "王聖均",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120156": {
-			"stuName": "孫柔騏",
-			"gender": "女"
+			"name": "孫柔騏",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120157": {
-			"stuName": "陳家瑾",
-			"gender": "女"
+			"name": "陳家瑾",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120158": {
-			"stuName": "呂宜婷",
-			"gender": "女"
+			"name": "呂宜婷",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120159": {
-			"stuName": "林君緯",
-			"gender": "男"
+			"name": "林君緯",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120160": {
-			"stuName": "莊琦穎",
-			"gender": "女"
+			"name": "莊琦穎",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120161": {
-			"stuName": "曾佳亭",
-			"gender": "女"
+			"name": "曾佳亭",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120162": {
-			"stuName": "鍾俊威",
-			"gender": "男"
+			"name": "鍾俊威",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120163": {
-			"stuName": "何靖卉",
-			"gender": "女"
+			"name": "何靖卉",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120164": {
-			"stuName": "洪馨臻",
-			"gender": "女"
+			"name": "洪馨臻",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120165": {
-			"stuName": "王易邗",
-			"gender": "女"
+			"name": "王易邗",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120166": {
-			"stuName": "蔡思睿",
-			"gender": "女"
+			"name": "蔡思睿",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120167": {
-			"stuName": "江克倫",
-			"gender": "男"
+			"name": "江克倫",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120168": {
-			"stuName": "賴瑋震",
-			"gender": "男"
+			"name": "賴瑋震",
+			"gender": "男",
+			"type": "原住民生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120169": {
-			"stuName": "張鎬元",
-			"gender": "男"
+			"name": "張鎬元",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120170": {
-			"stuName": "徐胤潔",
-			"gender": "女"
+			"name": "雲胤潔",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120171": {
-			"stuName": "葉克舜",
-			"gender": "男"
+			"name": "葉克舜",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120172": {
-			"stuName": "蘇芳楨",
-			"gender": "女"
+			"name": "蘇芳楨",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120173": {
-			"stuName": "江宜紋",
-			"gender": "女"
+			"name": "江宜紋",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120174": {
-			"stuName": "王沛慧",
-			"gender": "女"
+			"name": "王沛慧",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120175": {
-			"stuName": "楊程翰",
-			"gender": "男"
+			"name": "楊程翰",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120176": {
-			"stuName": "蔡嘉綺",
-			"gender": "女"
+			"name": "蔡嘉綺",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "忠孝國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120177": {
-			"stuName": "簡冠璇",
-			"gender": "女"
+			"name": "簡冠璇",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "忠孝國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120178": {
-			"stuName": "蘇立璇",
-			"gender": "女"
+			"name": "蘇立璇",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "忠孝國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120179": {
-			"stuName": "陳佩萩",
-			"gender": "女"
+			"name": "陳佩萩",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "忠孝國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120180": {
-			"stuName": "謝孟蓉",
-			"gender": "女"
+			"name": "謝孟蓉",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "忠孝國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120181": {
-			"stuName": "李欣昀",
-			"gender": "女"
+			"name": "李欣昀",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "忠孝國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120182": {
-			"stuName": "江佩蓁",
-			"gender": "女"
+			"name": "江佩蓁",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "忠孝國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120183": {
-			"stuName": "劉俐韶",
-			"gender": "女"
+			"name": "劉俐韶",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "忠孝國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120184": {
-			"stuName": "陳人玲",
-			"gender": "女"
+			"name": "陳人玲",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "忠孝國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120185": {
-			"stuName": "陳睿潔",
-			"gender": "女"
+			"name": "陳睿潔",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "忠孝國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120186": {
-			"stuName": "許柏瑋",
-			"gender": "男"
+			"name": "許柏瑋",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "石牌國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "北投區"
+			}
 		},
 		"120187": {
-			"stuName": "曾矩翰",
-			"gender": "男"
+			"name": "曾矩翰",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "義民高中",
+				"tYpe": "私立",
+				"district": "新竹縣"
+			}
 		},
 		"120188": {
-			"stuName": "林秉雄",
-			"gender": "男"
+			"name": "林秉雄",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "金華國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "大安區"
+			}
 		},
 		"120189": {
-			"stuName": "張欣文",
-			"gender": "女"
+			"name": "張欣文",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "明正國中",
+				"tYpe": "縣立",
+				"district": "屏東縣"
+			}
 		},
 		"120190": {
-			"stuName": "吳雯雯",
-			"gender": "女"
+			"name": "吳雯雯",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "成德國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "南港區"
+			}
 		},
 		"120191": {
-			"stuName": "游勵毅",
-			"gender": "男"
+			"name": "游勵毅",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "成德國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "南港區"
+			}
 		},
 		"120192": {
-			"stuName": "謝宜樺",
-			"gender": "女"
+			"name": "謝宜樺",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "成德國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "南港區"
+			}
 		},
 		"120193": {
-			"stuName": "呂書宇",
-			"gender": "男"
+			"name": "呂書宇",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "成德國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "南港區"
+			}
 		},
 		"120194": {
-			"stuName": "韓品玉",
-			"gender": "女"
+			"name": "韓品玉",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "成德國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "南港區"
+			}
 		},
 		"120195": {
-			"stuName": "林家芬",
-			"gender": "女"
+			"name": "林家芬",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "成德國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "南港區"
+			}
 		},
 		"120196": {
-			"stuName": "林漢翰",
-			"gender": "男"
+			"name": "林漢翰",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "福安國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "士林區"
+			}
 		},
 		"120197": {
-			"stuName": "高孟居",
-			"gender": "男"
+			"name": "高孟居",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "樹林高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120198": {
-			"stuName": "陳玉婷",
-			"gender": "女"
+			"name": "陳玉婷",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "樹林高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120199": {
-			"stuName": "陳雅欣",
-			"gender": "女"
+			"name": "陳雅欣",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "樹林高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120200": {
-			"stuName": "蔡趙宇",
-			"gender": "男"
+			"name": "蔡趙宇",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "樹林高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120201": {
-			"stuName": "游堯臻",
-			"gender": "女"
+			"name": "游堯臻",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "樹林高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120202": {
-			"stuName": "李淑涵",
-			"gender": "女"
+			"name": "李淑涵",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "樹林高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120203": {
-			"stuName": "陳詩文",
-			"gender": "女"
+			"name": "陳詩文",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "樹林高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120204": {
-			"stuName": "趙冠凱",
-			"gender": "男"
+			"name": "趙冠凱",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "樹林高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120205": {
-			"stuName": "林乃琳",
-			"gender": "女"
+			"name": "林乃琳",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "樹林高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120206": {
-			"stuName": "黃佳琳",
-			"gender": "女"
+			"name": "黃佳琳",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "樹林高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120207": {
-			"stuName": "盧皓傑",
-			"gender": "男"
+			"name": "盧皓傑",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "南崁高中",
+				"tYpe": "縣立",
+				"district": "桃園縣"
+			}
 		},
 		"120208": {
-			"stuName": "謝瑋嘉",
-			"gender": "女"
+			"name": "謝瑋嘉",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "南崁高中",
+				"tYpe": "縣立",
+				"district": "桃園縣"
+			}
 		},
 		"120209": {
-			"stuName": "許庭雯",
-			"gender": "女"
+			"name": "許庭雯",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "建德國中",
+				"tYpe": "市立",
+				"district": "基隆市"
+			}
 		},
 		"120210": {
-			"stuName": "張裕辰",
-			"gender": "女"
+			"name": "張裕辰",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "建德國中",
+				"tYpe": "市立",
+				"district": "基隆市"
+			}
 		},
 		"120211": {
-			"stuName": "黃怡筠",
-			"gender": "女"
+			"name": "黃怡筠",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "建國國中",
+				"tYpe": "縣立",
+				"district": "桃園縣"
+			}
 		},
 		"120212": {
-			"stuName": "郭皓妮",
-			"gender": "女"
+			"name": "郭皓妮",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "樟樹國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120213": {
-			"stuName": "李安樺",
-			"gender": "女"
+			"name": "李安樺",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "樟樹國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120214": {
-			"stuName": "林淞麟",
-			"gender": "男"
+			"name": "林淞麟",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "樟樹國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120215": {
-			"stuName": "許曉潔",
-			"gender": "女"
+			"name": "許曉潔",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "樟樹國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120216": {
-			"stuName": "陳巧霓",
-			"gender": "女"
+			"name": "陳巧霓",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "樟樹國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120217": {
-			"stuName": "劉志葦",
-			"gender": "男"
+			"name": "劉志葦",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "大直高中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "中山區"
+			}
 		},
 		"120218": {
-			"stuName": "張妍慈",
-			"gender": "女"
+			"name": "張妍慈",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "及人高中",
+				"tYpe": "私立",
+				"district": "新北市"
+			}
 		},
 		"120219": {
-			"stuName": "胡孟瑋",
-			"gender": "男"
+			"name": "胡孟瑋",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "及人高中",
+				"tYpe": "私立",
+				"district": "新北市"
+			}
 		},
 		"120220": {
-			"stuName": "何心琇",
-			"gender": "女"
+			"name": "何心琇",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "及人高中",
+				"tYpe": "私立",
+				"district": "新北市"
+			}
 		},
 		"120221": {
-			"stuName": "林少達",
-			"gender": "男"
+			"name": "林少達",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "及人高中",
+				"tYpe": "私立",
+				"district": "新北市"
+			}
 		},
 		"120222": {
-			"stuName": "熊昕軒",
-			"gender": "男"
+			"name": "熊昕軒",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "鷺江國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120223": {
-			"stuName": "廖筠廷",
-			"gender": "女"
+			"name": "廖筠廷",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "鷺江國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120224": {
-			"stuName": "顏伊綸",
-			"gender": "女"
+			"name": "顏伊綸",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "鷺江國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120225": {
-			"stuName": "蕭珮瑜",
-			"gender": "女"
+			"name": "蕭珮瑜",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "鷺江國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120226": {
-			"stuName": "吳庭華",
-			"gender": "女"
+			"name": "吳庭華",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "鷺江國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120227": {
-			"stuName": "張明穎",
-			"gender": "女"
+			"name": "張明穎",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "鷺江國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120228": {
-			"stuName": "康貞芹",
-			"gender": "女"
+			"name": "康貞芹",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "鷺江國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120229": {
-			"stuName": "吳宛儀",
-			"gender": "女"
+			"name": "吳宛儀",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "三民高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120230": {
-			"stuName": "蔡世凱",
-			"gender": "男"
+			"name": "蔡世凱",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "三民高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120231": {
-			"stuName": "施霽節",
-			"gender": "女"
+			"name": "施霽節",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "三民高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120232": {
-			"stuName": "葉伶寧",
-			"gender": "女"
+			"name": "葉伶寧",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "三民高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120233": {
-			"stuName": "蔡芳瑄",
-			"gender": "女"
+			"name": "蔡芳瑄",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "三民高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120234": {
-			"stuName": "左亞依",
-			"gender": "女"
+			"name": "左亞依",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "江翠國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120235": {
-			"stuName": "郭喬薇",
-			"gender": "女"
+			"name": "郭喬薇",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "仁愛國中",
+				"tYpe": "縣立",
+				"district": "新竹縣"
+			}
 		},
 		"120236": {
-			"stuName": "楊子鈞",
-			"gender": "女"
+			"name": "楊子鈞",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "竹圍國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120237": {
-			"stuName": "張依孜",
-			"gender": "女"
+			"name": "張依孜",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "竹圍國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120238": {
-			"stuName": "陳孜蓮",
-			"gender": "女"
+			"name": "陳孜蓮",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "竹圍國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120239": {
-			"stuName": "林香鍶",
-			"gender": "女"
+			"name": "林香鍶",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "竹圍國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120240": {
-			"stuName": "林昀如",
-			"gender": "女"
+			"name": "林昀如",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "中平國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120241": {
-			"stuName": "陳韻萍",
-			"gender": "女"
+			"name": "陳韻萍",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "鶯歌國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120242": {
-			"stuName": "高竣祥",
-			"gender": "男"
+			"name": "高竣祥",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "鶯歌國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120243": {
-			"stuName": "張慶仲",
-			"gender": "男"
+			"name": "張慶仲",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "鶯歌國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120244": {
-			"stuName": "陳雅蔓",
-			"gender": "女"
+			"name": "陳雅蔓",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "鶯歌國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120245": {
-			"stuName": "宋蔓如",
-			"gender": "女"
+			"name": "宋蔓如",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "鶯歌國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120246": {
-			"stuName": "林盈荃",
-			"gender": "女"
+			"name": "林盈荃",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "鶯歌國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120247": {
-			"stuName": "賴香潔",
-			"gender": "女"
+			"name": "賴香潔",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "鶯歌國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120248": {
-			"stuName": "尤彥哲",
-			"gender": "男"
+			"name": "尤彥哲",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "鶯歌國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120249": {
-			"stuName": "蘇明廷",
-			"gender": "男"
+			"name": "蘇明廷",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "鶯歌國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120250": {
-			"stuName": "吳韋文",
-			"gender": "男"
+			"name": "吳韋文",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "鶯歌國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120251": {
-			"stuName": "王品伶",
-			"gender": "女"
+			"name": "王品伶",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "鶯歌國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120252": {
-			"stuName": "陳正瑋",
-			"gender": "男"
+			"name": "陳正瑋",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "鶯歌國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120253": {
-			"stuName": "賴晏妃",
-			"gender": "女"
+			"name": "賴晏妃",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120254": {
-			"stuName": "劉俊鎬",
-			"gender": "男"
+			"name": "劉俊鎬",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120255": {
-			"stuName": "劉芳心",
-			"gender": "女"
+			"name": "劉芳心",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120256": {
-			"stuName": "吳矞柔",
-			"gender": "女"
+			"name": "吳矞柔",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120257": {
-			"stuName": "莊曉儀",
-			"gender": "女"
+			"name": "莊曉儀",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120258": {
-			"stuName": "陳官祺",
-			"gender": "女"
+			"name": "陳官祺",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120259": {
-			"stuName": "陳鎬聖",
-			"gender": "男"
+			"name": "陳鎬聖",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120260": {
-			"stuName": "陳凱琳",
-			"gender": "女"
+			"name": "陳凱琳",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120261": {
-			"stuName": "洪褘柔",
-			"gender": "女"
+			"name": "洪褘柔",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120262": {
-			"stuName": "潘郁軒",
-			"gender": "女"
+			"name": "潘郁軒",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120263": {
-			"stuName": "封巧萍",
-			"gender": "女"
+			"name": "封巧萍",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120264": {
-			"stuName": "陳渝穎",
-			"gender": "女"
+			"name": "陳渝穎",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120265": {
-			"stuName": "梁之任",
-			"gender": "男"
+			"name": "梁之任",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120266": {
-			"stuName": "邱曜銘",
-			"gender": "男"
+			"name": "邱曜銘",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120267": {
-			"stuName": "李佩婷",
-			"gender": "女"
+			"name": "李佩婷",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120268": {
-			"stuName": "余靜儒",
-			"gender": "女"
+			"name": "余靜儒",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120269": {
-			"stuName": "詹裕霆",
-			"gender": "男"
+			"name": "詹裕霆",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120270": {
-			"stuName": "戴佩銘",
-			"gender": "女"
+			"name": "戴佩銘",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120271": {
-			"stuName": "呂祐葶",
-			"gender": "女"
+			"name": "呂祐葶",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120272": {
-			"stuName": "張禎潔",
-			"gender": "女"
+			"name": "張禎潔",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120273": {
-			"stuName": "顏鈺瑄",
-			"gender": "女"
+			"name": "顏鈺瑄",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "福和國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120274": {
-			"stuName": "林郁馨",
-			"gender": "女"
+			"name": "林郁馨",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "大崗國中",
+				"tYpe": "縣立",
+				"district": "桃園縣"
+			}
 		},
 		"120275": {
-			"stuName": "黃晉舜",
-			"gender": "男"
+			"name": "黃晉舜",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "丹鳳國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120276": {
-			"stuName": "蕭培如",
-			"gender": "女"
+			"name": "蕭培如",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "丹鳳國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120277": {
-			"stuName": "沈玉靜",
-			"gender": "女"
+			"name": "沈玉靜",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "丹鳳國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120278": {
-			"stuName": "吳月芳",
-			"gender": "女"
+			"name": "吳月芳",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "八里國中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120279": {
-			"stuName": "郭旻恩",
-			"gender": "女"
+			"name": "郭旻恩",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "新屋國中",
+				"tYpe": "縣立",
+				"district": "桃園縣"
+			}
 		},
 		"120280": {
-			"stuName": "宋巧庭",
-			"gender": "女"
+			"name": "宋巧庭",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "秀峰高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120281": {
-			"stuName": "陳久文",
-			"gender": "女"
+			"name": "陳久文",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "秀峰高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120282": {
-			"stuName": "黃俐懿",
-			"gender": "女"
+			"name": "黃俐懿",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "秀峰高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120283": {
-			"stuName": "王苹璇",
-			"gender": "女"
+			"name": "王苹璇",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "秀峰高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120284": {
-			"stuName": "朱宜樺",
-			"gender": "男"
+			"name": "朱宜樺",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "北安國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "中山區"
+			}
 		},
 		"120285": {
-			"stuName": "王昱倫",
-			"gender": "女"
+			"name": "王昱倫",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "北安國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "中山區"
+			}
 		},
 		"120286": {
-			"stuName": "陳欣霞",
-			"gender": "女"
+			"name": "陳欣霞",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "北安國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "中山區"
+			}
 		},
 		"120287": {
-			"stuName": "蘇炳誠",
-			"gender": "男"
+			"name": "蘇炳誠",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "北安國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "中山區"
+			}
 		},
 		"120288": {
-			"stuName": "吳靈凌",
-			"gender": "女"
+			"name": "吳靈凌",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "北安國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "中山區"
+			}
 		},
 		"120289": {
-			"stuName": "林晨容",
-			"gender": "女"
+			"name": "林晨容",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "北安國中",
+				"tYpe": "市立",
+				"district": "台北市",
+				"zone": "中山區"
+			}
 		},
 		"120290": {
-			"stuName": "徐婉雅",
-			"gender": "女"
+			"name": "徐婉雅",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "清水高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120291": {
-			"stuName": "賴姵儀",
-			"gender": "女"
+			"name": "賴姵儀",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "清水高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120292": {
-			"stuName": "邵亭庭",
-			"gender": "女"
+			"name": "邵亭庭",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "清水高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120293": {
-			"stuName": "李婉禎",
-			"gender": "女"
+			"name": "李婉禎",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "清水高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120294": {
-			"stuName": "洪育妮",
-			"gender": "女"
+			"name": "洪育妮",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "清水高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120295": {
-			"stuName": "詹彥羽",
-			"gender": "女"
+			"name": "詹彥羽",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "清水高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120296": {
-			"stuName": "劉燕庭",
-			"gender": "女"
+			"name": "劉燕庭",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "清水高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120297": {
-			"stuName": "鐘慧璇",
-			"gender": "女"
+			"name": "鐘慧璇",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "清水高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120298": {
-			"stuName": "吳孟敏",
-			"gender": "女"
+			"name": "吳孟敏",
+			"gender": "女",
+			"type": "一般生",
+			"school": {
+				"name": "清水高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		},
 		"120299": {
-			"stuName": "陳哲林",
-			"gender": "男"
+			"name": "陳哲林",
+			"gender": "男",
+			"type": "一般生",
+			"school": {
+				"name": "清水高中",
+				"tYpe": "市立",
+				"district": "新北市"
+			}
 		}
 	},
 
@@ -3585,4 +5481,4 @@
 			"寫作": 5
 		}
 	}
-}	
+}
