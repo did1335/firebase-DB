@@ -93,7 +93,7 @@ function readData(stuNo){
                     //回傳資料
                     resolve(results);					
                 }				
-            })
+            });
         });       
     });
 }
