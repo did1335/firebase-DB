@@ -70,7 +70,7 @@ function readData(stuNo){
             myDB.ref('/scores/' + stuNo).once('value', (scoresSnap) => {
                 if (!scoresSnap.exists() || !studentsSnap.exists()) {
                     //回傳空資料
-			            		resolve({});
+                    resolve({});
                 }else{
                     results={};       
                     results.stuNo = stuNo;
