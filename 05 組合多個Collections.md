@@ -76,7 +76,7 @@ function readData(stuNo){
                     results.name = studentsSnap.val().name;
                     results.gender = studentsSnap.val().gender;
                     results.school = studentsSnap.val().school;					
-					results.type = studentsSnap.val().type;
+                    results.type = studentsSnap.val().type;
 
                     //-------------------------
                     // 取出scores快照內容
