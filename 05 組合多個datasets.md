@@ -1,6 +1,6 @@
-# 05 組合多個datasets
+# 05 組合多個Collections
 
-## (1) 組合students及scores
+## (1) 組合Dataset的students及scores二個Collections
 
 ```
 <測試>
