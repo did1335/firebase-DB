@@ -1,6 +1,6 @@
 # 05 組合多個Collections
 
-## (1) 組合Dataset的students及scores二個Collections
+## (1) 組合students及scores二個Collections的內容
 
 ```
 <測試>
@@ -17,10 +17,7 @@
     /* Visit https://firebase.google.com/docs/database/security to learn more about security rules. */
     "rules": {
         ".read": true,
-        ".write": true,
-        "scores": {
-           ".indexOn": ["國文"]
-        } 
+        ".write": true
     }  
 }
 ```
