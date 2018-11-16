@@ -78,12 +78,12 @@ function readData(type){
                         stuObj.stuNo = stuChild.key;
                         stuObj.name = stuChild.val().name;
                         stuObj.gender = stuChild.val().gender;
-                        stuObj.school = stuChild.val().school;					
+                        stuObj.school = stuChild.val().school;
                         stuObj.type = stuChild.val().type;
 
                         //-------------------------
                         // 取出scores快照內容
-                        //-------------------------					
+                        //-------------------------
                         scores=[];
 								
                         scoresSnap.forEach(scoChild => {
@@ -93,25 +93,25 @@ function readData(type){
                             scoObj[key] = value;
 											
                             scores.push(scoObj);
-                        });	
+                        });
 
                         //-------------------------
                         // 合併學生與成績資料
-                        //-------------------------	
+                        //-------------------------
                         stuObj.scores = scores;
 						
                         //-------------------------
                         // 將物件加入results中
-                        //-------------------------							
-                        results.push(stuObj);						
+                        //-------------------------
+                        results.push(stuObj);
                     });                   
 					
                     //-------------------------
                     // 回傳資料
-                    //-------------------------						                                
+                    //-------------------------
                     resolve(results);
-                    //-------------------------						
-                }				
+                    //-------------------------
+                }
             });
         });       
     });
@@ -128,7 +128,7 @@ readData('原住民生').then(results => {
         console.log(doc.gender);
         console.log(doc.school);
         console.log(doc.type);
-        console.log(doc.scores);		
+        console.log(doc.scores);
         console.log('-----------------');
     });
 });
