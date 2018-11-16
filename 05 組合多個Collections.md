@@ -53,7 +53,6 @@ module.exports = firebase.database();
 ### (1-3) index.js
 
 ```javascript
-
 //----------------------------
 // 引用db.js
 //----------------------------
@@ -66,15 +65,22 @@ function readData(stuNo){
     return new Promise(function(resolve, reject){
         myDB.ref('/students/' + stuNo).once('value').then(studentsSnap => {
             myDB.ref('/scores/' + stuNo).once('value').then(scoresSnap => {
-                if (!scoresSnap.exists() || !studentsSnap.exists()) {
-                    //回傳空資料
-                    resolve({});
+                if (!scoresSnap.exists() || !studentsSnap.exists()) {                    
+                    resolve({});  //回傳空資料
                 }else{
+                    //-------------------------
+                    // 取出students快照內容
+                    //-------------------------
                     results={};       
                     results.stuNo = stuNo;
-                    results.stuName = studentsSnap.val().name;
+                    results.name = studentsSnap.val().name;
                     results.gender = studentsSnap.val().gender;
-								
+                    results.school = studentsSnap.val().school;					
+					results.type = studentsSnap.val().type;
+
+                    //-------------------------
+                    // 取出scores快照內容
+                    //-------------------------					
                     scores=[];
 							
                     scoresSnap.forEach(childSnap => {
@@ -85,11 +91,13 @@ function readData(stuNo){
 										
                         scores.push(obj);
                     });	
-						
-                    results.scores = scores;
-							
-                    //回傳資料
-                    resolve(results);					
+					
+                    //-------------------------
+                    // 回傳資料
+                    //-------------------------						
+                    results.scores = scores;                  
+                    resolve(results);
+                    //-------------------------						
                 }				
             });
         });       
@@ -98,10 +106,15 @@ function readData(stuNo){
 
 
 //----------------------------
-// 讀入資料
+// 主程式
 //----------------------------
-readData('130002').then(results => {
-    console.log(results);		
-})
+readData('120001').then(results => {
+    console.log(results.stuNo);
+    console.log(results.name);
+    console.log(results.gender);
+    console.log(results.type);
+    console.log(results.school);
+    console.log(results.scores);	
+});
 ```
 
