@@ -72,15 +72,15 @@ function readData(stuNo){
                     // 取出students快照內容
                     //-------------------------
                     results={};       
-                    results.stuNo = stuNo;
+                    results.stuNo = studentsSnap.key;
                     results.name = studentsSnap.val().name;
                     results.gender = studentsSnap.val().gender;
-                    results.school = studentsSnap.val().school;					
+                    results.school = studentsSnap.val().school;
                     results.type = studentsSnap.val().type;
 
                     //-------------------------
                     // 取出scores快照內容
-                    //-------------------------					
+                    //-------------------------
                     scores=[];
 							
                     scoresSnap.forEach(childSnap => {
@@ -90,15 +90,15 @@ function readData(stuNo){
                         obj[key] = value;
 										
                         scores.push(obj);
-                    });	
+                    });
 					
                     //-------------------------
                     // 回傳資料
-                    //-------------------------						
+                    //-------------------------
                     results.scores = scores;                  
                     resolve(results);
-                    //-------------------------						
-                }				
+                    //-------------------------
+                }
             });
         });       
     });
@@ -114,7 +114,7 @@ readData('120001').then(results => {
     console.log(results.gender);
     console.log(results.type);
     console.log(results.school);
-    console.log(results.scores);	
+    console.log(results.scores);
 });
 ```
 
