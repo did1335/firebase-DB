@@ -53,6 +53,7 @@ module.exports = firebase.database();
 ### (1-3) index.js
 
 ```javascript
+
 //----------------------------
 // 引用db.js
 //----------------------------
@@ -63,8 +64,8 @@ var myDB = require('./lib/db.js');
 //----------------------------
 function readData(stuNo){    
     return new Promise(function(resolve, reject){
-        myDB.ref('/students/' + stuNo).once('value', (studentsSnap) => {
-            myDB.ref('/scores/' + stuNo).once('value', (scoresSnap) => {
+        myDB.ref('/students/' + stuNo).once('value').then(studentsSnap => {
+            myDB.ref('/scores/' + stuNo).once('value').then(scoresSnap => {
                 if (!scoresSnap.exists() || !studentsSnap.exists()) {
                     //回傳空資料
                     resolve({});
@@ -73,20 +74,20 @@ function readData(stuNo){
                     results.stuNo = stuNo;
                     results.stuName = studentsSnap.val().name;
                     results.gender = studentsSnap.val().gender;
-						
+								
                     scores=[];
-					
+							
                     scoresSnap.forEach(childSnap => {
                         var obj={};
                         key = childSnap.key;
                         var value = childSnap.val();
                         obj[key] = value;
-								
+										
                         scores.push(obj);
                     });	
-					
+						
                     results.scores = scores;
-					
+							
                     //回傳資料
                     resolve(results);					
                 }				
@@ -99,12 +100,8 @@ function readData(stuNo){
 //----------------------------
 // 讀入資料
 //----------------------------
-readData('120002')
-    .then(results => {
-        console.log(results);		
-    })
-    .catch(error => {
-        console.log('執行錯誤! '+error);
-    });
+readData('130002').then(results => {
+    console.log(results);		
+})
 ```
 
